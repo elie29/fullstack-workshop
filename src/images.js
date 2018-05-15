@@ -16,7 +16,7 @@ import peggy from './assets/PeggyPhoto.jpg';
 import gqlOverRest from './assets/gql-over-rest.png';
 import schemaDev from './assets/schema-dev.png';
 import dataFlow from './assets/data-flow.png';
-import whatIs from './assets/what-is-apollo.png';
+import whatIs from './assets/what-is-apollo.svg';
 import reactEU from './assets/reacteurope.png';
 import formidableLogo from './assets/Formidable_White.svg';
 import graph from './assets/graph.svg';
